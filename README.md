@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning Web Developer
 - 💞️ I’m looking to collaborate on Web Developing
-- 📫 How to reach me: <a href="tel:+13432047910">+1 3432047910</a>
+- 📫 How to reach me: <a href="tell:sravansuresh2411@gmail.com" alt="Contact me"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></code></a>
 - 📫 How to reach me: <a href="mailto:sravansuresh2411@gmail.com" alt="Contact me"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></code></a>
 &nbsp;<a href="https://www.linkedin.com/in/sravan-suresh-112121156/" alt="Linkedin"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg"></code></a>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
